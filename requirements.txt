@@ -1,0 +1,5 @@
+matplotlib==3.1.2
+numpy==1.17.4
+opencv_python==4.6.0.66
+scipy==1.6.2
+tomita==0.2.0
