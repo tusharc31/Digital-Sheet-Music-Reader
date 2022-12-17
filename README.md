@@ -1,4 +1,4 @@
-# Optical Sheet Music Recognition 
+# Digital-Sheet-Music-Reader
 Our project deals with reading sheet music and generating the audio corresponding to it. We use a wide variety of morphological operations and a vast range of structuring elements corresponding to that.
 
 ## Brief Description
@@ -42,4 +42,3 @@ The outputs are present in the data/outs directory
 ## Biblography:
 https://web.stanford.edu/class/ee368/Project_Spring_1415/Reports/Verma_Harris.pdf
 
-# Digital-Sheet-Music-Reader
